@@ -1,0 +1,35 @@
+providing business solutions to organizations with advamced technology
+
+sure pay- checking trasnactions that go through the financial org to end users and prompts fradulent activities by checing th benfiiary details at the bank end 
+application : gathered formatted data needs to be run on browser and mobile apps
+
+
+Sure pay:
+-Develop application for users to pay amounts in installments
+
+SDLC- planning, defining, designing, building, testing, dployment
+
+steps for analysis
+-Build trust
+-Understand the requirements/precieve what the client expects
+-Confirm the requireents
+-present the details in presentation (scope, budget, timeline)
+
+
+Agile methodology: getting feed backs from cliemt after building every module/ sprint
+
+MVP - Just a demo model
+
+Increments: additional fearures
+Product owner : oe who collects the requirements and suggest to build a product based on taht requirement
+Stake holders: directors/ employees who are involved in scrum
+developer : the one who builds the product
+scrum master : the one who provides the neceesary information and requirements in order to build the product.Intermediate b/w product owner and dev
+Sprint: the modules to be completed
+Sprint backlogs: The featured required for that particular module
+
+
+Meetings based upon sprints
+-stand up
+-product shipment meetimgs and discussion about it with the client (Review meet)
+-Retrospective - general feed back from peers

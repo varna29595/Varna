@@ -1,0 +1,17 @@
+-present the details in presentation (scope, budget, timeline)
+1. problem and the solution
+-market analysis
+about us
+product overview
+budget and time lien
+
+
+Meetings based upon sprints
+-stand up
+-product shipment meetimgs and discussion about it with the client (Review meet)
+-Retrospective - general feed back from peers
+
+-ADA
+-Robotic process
+-Block chain
+
